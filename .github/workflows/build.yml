@@ -19,3 +19,4 @@ jobs:
       with:
         name: DurabilityMod-JAR
         path: build/libs/*.jar
+
